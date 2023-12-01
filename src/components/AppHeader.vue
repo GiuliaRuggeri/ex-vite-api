@@ -11,7 +11,7 @@ export default {
             <form class="d-flex" role="search">
                 <ul class="navbar-nav d-flex flex-row">
                     <li class="nav-item ms-2">
-                        <a class=" nav-link active title" aria-current="page" href>Poland's Breweries</a>
+                        <a class=" nav-link active title" aria-current="page" href>Breweries</a>
                     </li>
 
                 </ul>
